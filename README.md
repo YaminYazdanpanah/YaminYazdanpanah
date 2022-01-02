@@ -6,7 +6,7 @@
 
 - 👍  &nbsp;Linkedin Profile [linkedin.com/in/yamin-yazdanpanah](https://www.linkedin.com/in/yamin-yazdanpanah)
 
-- 📫  &nbsp;Reach me [at] [yaminyazdanpanah@gmail.com](yaminyazdanpanah@gmail.com)
+- 📫  &nbsp;Reach me [at] yaminyazdanpanah@gmail.com
 
   
   <br>
