@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻  &nbsp;Working as Software Development Team Lead at Kasra Company.
 
-- 👍  &nbsp;Linkedin Profile [www.linkedin.com/in/yamin-yazdanpanah](www.linkedin.com/in/yamin-yazdanpanah)
+- 👍  &nbsp;Linkedin Profile [linkedin.com/in/yamin-yazdanpanah](https://www.linkedin.com/in/yamin-yazdanpanah)
 
 - 📫  &nbsp;Reach me [at] [yaminyazdanpanah@gmail.com](yaminyazdanpanah@gmail.com)
 
