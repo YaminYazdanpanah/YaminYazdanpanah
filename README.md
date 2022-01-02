@@ -15,5 +15,5 @@ I'm working as Senior Android developer and Software development Team Lead in Ka
   <br>
   <br>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=YaminYazdanpanah&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=yaminyazdanpanah&count_private=true&show_icons=true&theme=dracula)
 
