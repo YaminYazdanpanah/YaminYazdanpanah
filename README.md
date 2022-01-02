@@ -1,8 +1,11 @@
-### Hi there I'm Yamin Yazdanpanah 👋
+### Hi there 👋
 
-## I'm an Android Software Engineer !
+#### I'm Yamin Yazdanpanah !
+I'm working as Senior Android developer and Software development Team Lead in Kasra Company.
 
-- 👨🏻‍💻  &nbsp;Working as Software Development Team Lead at Kasra Company.
+- 👨🏻‍💻  &nbsp;Working in Scrum and Agile Environment
+
+- 🛸  &nbsp;Astronomy Lover
 
 - 👍  &nbsp;Linkedin Profile [linkedin.com/in/yamin-yazdanpanah](https://www.linkedin.com/in/yamin-yazdanpanah)
 
