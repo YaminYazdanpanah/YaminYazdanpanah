@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### I'm Yamin Yazdanpanah !
-I'm working as Senior Android developer Bama Company.
+I'm working as Senior Android developer at Bama Company.
 
 - 👨🏻‍💻  &nbsp;Working in Scrum and Agile Environment
 
