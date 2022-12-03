@@ -1,7 +1,7 @@
 ### Hi  👋
 
 #### I'm Yamin Yazdanpanah !
-I'm working as an Android developer at Skoove Company.
+I'm working as an Android developer at Skoove
 
 - 👨🏻‍💻  &nbsp;Working in Scrum and Agile Environment
 
