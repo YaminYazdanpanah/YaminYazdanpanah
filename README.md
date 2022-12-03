@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi  👋
 
 #### I'm Yamin Yazdanpanah !
-I'm working as an Android developer at Bama.ir Company.
+I'm working as an Android developer at Skoove Company.
 
 - 👨🏻‍💻  &nbsp;Working in Scrum and Agile Environment
 
