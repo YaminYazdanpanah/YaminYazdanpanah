@@ -7,13 +7,11 @@ I'm working as an Android developer at Skoove
 
 - 🛸  &nbsp;Astronomy Lover
 
-- 👍  &nbsp;Linkedin Profile [linkedin.com/in/yamin-yazdanpanah](https://www.linkedin.com/in/yamin-yazdanpanah)
+- 👍  &nbsp;Linkedin Profile [linkedin.com/in/yamin-yazdanpanah](https://www.linkedin.com/in/yaminy2/)
 
 - 📫  &nbsp;Reach me [at] yaminyazdanpanah@gmail.com
 
   
   <br>
   <br>
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=yaminyazdanpanah&count_private=true&show_icons=true&theme=dracula)
 
